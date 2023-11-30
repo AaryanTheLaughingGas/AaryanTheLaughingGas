@@ -27,5 +27,5 @@ I am an undergraduate Computer Science student who loves being stuck in the _end
 - 📖 I am currently researching and desing projects on **Internet of Things and Blockchain Technology**. 
 --- 
 ### Connect with me!
-- ![LinkedIn](https://www.linkedin.com/in/aaryan-sinha-844535274/)
+- [LinkedIn](https://www.linkedin.com/in/aaryan-sinha-844535274/)
 
