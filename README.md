@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![8-bit_Driving](https://github.com/AaryanTheLaughingGas/AaryanTheLaughingGas/assets/95224613/dfdf5a0b-9834-47f6-be2b-0bd6f987287a=250x250)
+![8-bit_Driving](https://github.com/AaryanTheLaughingGas/AaryanTheLaughingGas/assets/95224613/dfdf5a0b-9834-47f6-be2b-0bd6f987287a)
 ---
 
 ### Who am I?
@@ -27,4 +27,6 @@ I am an undergraduate Computer Science student who loves being stuck in the _end
 - 📖 I am currently researching and desing projects on **Internet of Things and Blockchain Technology**. 
 --- 
 ### Connect with me!
-- ![](https://www.linkedin.com/in/aaryan-sinha-844535274/)
+- [![LinkedIn](https://github.com/AaryanTheLaughingGas/AaryanTheLaughingGas/assets/95224613/24a7d9d3-ab16-4299-b4dc-9d53569d63c9)
+](https://www.linkedin.com/in/aaryan-sinha-844535274/)
+
