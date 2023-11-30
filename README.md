@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![8-bit_Driving](https://github.com/AaryanTheLaughingGas/AaryanTheLaughingGas/assets/95224613/dfdf5a0b-9834-47f6-be2b-0bd6f987287a = 250x250)
+![8-bit_Driving](https://github.com/AaryanTheLaughingGas/AaryanTheLaughingGas/assets/95224613/dfdf5a0b-9834-47f6-be2b-0bd6f987287a=250x250)
 ---
 
 ### Who am I?
