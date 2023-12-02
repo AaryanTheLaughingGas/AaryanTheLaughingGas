@@ -1,20 +1,7 @@
 # What's Good! 👋❤️
 ---
 
-<!--
-**AaryanTheLaughingGas/AaryanTheLaughingGas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![8-bit_Driving](https://github.com/AaryanTheLaughingGas/AaryanTheLaughingGas/assets/95224613/dfdf5a0b-9834-47f6-be2b-0bd6f987287a)
 ---
@@ -27,9 +14,6 @@ I am an undergraduate Computer Science student who loves being stuck in the _end
 - 📖 I am currently researching and designing projects on **Internet of Things and Blockchain Technology**. 
 --- 
 ### Connect with me!
-<table>
-<tr>
-  <td><a href="https://www.linkedin.com/in/aaryan-sinha-844535274/"><img src="https://github.com/AaryanTheLaughingGas/AaryanTheLaughingGas/assets/95224613/98b32fef-87f3-4325-b1e6-317c9998ad1e" alt="LinkedIn" style="width:42px;height:42px;outline:none;"></a></td>
-  
-</tr>
-</table>
+<a href="https://www.linkedin.com/in/aaryan-sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aaryan_thelaughing_gas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="learn.zip" height="30" width="40" /></a>
+
