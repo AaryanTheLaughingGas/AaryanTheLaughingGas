@@ -24,8 +24,12 @@ Here are some ideas to get you started:
 I am an undergraduate Computer Science student who loves being stuck in the _endless while loop_ of amazing new discoveries in the world of Computer Science! 
 
 - 🤖 I love learning about new advancements in **Artificial Intelligence** and **Machine Learning**.
-- 📖 I am currently researching and desing projects on **Internet of Things and Blockchain Technology**. 
+- 📖 I am currently researching and designing projects on **Internet of Things and Blockchain Technology**. 
 --- 
 ### Connect with me!
-- [LinkedIn](https://www.linkedin.com/in/aaryan-sinha-844535274/)
-
+<table>
+<tr>
+  <td><a href="https://www.linkedin.com/in/aaryan-sinha-844535274/"><img src="https://github.com/AaryanTheLaughingGas/AaryanTheLaughingGas/assets/95224613/98b32fef-87f3-4325-b1e6-317c9998ad1e" alt="LinkedIn" style="width:42px;height:42px;outline:none;"></a></td>
+  
+</tr>
+</table>
