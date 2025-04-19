@@ -15,6 +15,6 @@ I am an undergraduate Computer Science student who loves being stuck in the _end
 - 🦾 I am currently working on developing **Robotic Automations using AI** and dynamic **Cybersecurity Threat Detection** using ML 💻 
 --- 
 ### Connect with me!
-<a href="https://www.linkedin.com/in/aaryan-sinha-844535274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/aaryan-sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aaryan_thelaughing_gas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="learn.zip" height="30" width="40" /></a>
 
