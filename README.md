@@ -8,11 +8,13 @@
 
 ### Who am I?
 ---
-I am an undergraduate Computer Science student who loves being stuck in the _endless while loop_ of amazing new discoveries in the world of Computer Science! 
+I am an Graduate Computer Science student who loves being stuck in the _endless while loop_ of amazing new discoveries in the world of Computer Science! 
 
-- 🤖 I love _💻data science🧬_ and creating automations using **Artificial Intelligence** and **Machine Learning**.
-- 📖 I have written 2 Research Papers: **1. Internet of Things and Blockchain Technology** | **2. Blockchain-powered Asset Tokenization Platform Development**
-- 🦾 I am currently working on developing **Robotic Automations using AI** and dynamic **Cybersecurity Threat Detection** using ML 💻 
+- 🤖 I love _💻data science🧬_ and creating automations using **Artificial Intelligence** and **Machine Learning** 🤖
+- 📖 I have written 2 Research Papers: **1. Internet of Things and Blockchain Technology** | **2. Blockchain-powered Asset Tokenization Platform Development** 👈 [Published in IEEE!📜](https://ieeexplore.ieee.org/document/10812602)
+- 🦾 I have developed **Robotic Automations using AI** and dynamic **Cybersecurity Threat Detection** using ML 💻
+- 🏢 I have designed integrated system architectures using **Microsoft's Power Platform ** when I worked at Reckitt, Dubai 🧼
+- 👾 I am currently exploring and contributing to new advancements in **Artificial Intellegence** 🎉
 --- 
 ### Connect with me!
 <a href="https://www.linkedin.com/in/aaryan-sinha-844535274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
