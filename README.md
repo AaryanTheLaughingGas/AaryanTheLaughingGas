@@ -13,7 +13,7 @@ I am an Graduate Computer Science student who loves being stuck in the _endless 
 - 🤖 I love _💻data science🧬_ and creating automations using **Artificial Intelligence** and **Machine Learning** 🤖
 - 📖 I have written 2 Research Papers: **1. Internet of Things and Blockchain Technology** | **2. Blockchain-powered Asset Tokenization Platform Development** 👈 [Published in IEEE!📜](https://ieeexplore.ieee.org/document/10812602)
 - 🦾 I have developed **Robotic Automations using AI** and dynamic **Cybersecurity Threat Detection** using ML 💻
-- 🏢 I have designed integrated system architectures using **Microsoft's Power Platform ** when I worked at Reckitt, Dubai 🧼
+- 🏢 I have designed integrated system architectures using **Microsoft's Power Platform** at Reckitt, Dubai 🧼
 - 👾 I am currently exploring and contributing to new advancements in **Artificial Intellegence** 🎉
 --- 
 ### Connect with me!
